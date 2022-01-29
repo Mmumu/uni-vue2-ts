@@ -1,0 +1,10 @@
+{
+  "publicComponents": {
+    "avatar": "components/avatar/avatar"
+  },
+  "pages": {
+    "hello": "pages/hello",
+    "word": "pages/word"
+  },
+  "main": "index.js"
+}
